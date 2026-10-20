@@ -34,6 +34,10 @@ My background spans industrial computer vision, ROS 2 integration, multimodal ro
 
 **Guangdong University of Finance & Economics** — Bachelor's degree in Software Engineering
 
+## Engineering notes
+
+- [From VLA Action Chunks to Robot Commands](notes/vla-action-to-robot-controller.md) — a vendor-neutral note on action semantics, trajectory adaptation, feedback, and failure handling. The examples are illustrative and not presented as a validated real-robot controller.
+
 ## What I want to build next
 
 Reliable bridges between **teleoperation, robot-learning policies, robot control interfaces, and real-world evaluation**. I'm especially interested in deployment systems where observability, predictable motion, and failure handling matter as much as model accuracy.
